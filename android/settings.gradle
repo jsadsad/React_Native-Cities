@@ -1,0 +1,3 @@
+rootProject.name = 'Cities_List'
+
+include ':app'
